@@ -1,7 +1,9 @@
-# Kora PTY LTD
-Kora is an AI-powered chatbot platform built specifically for VCE students, providing fast, intelligent academic support.
-
-# What We Do
+<a href="https://app.koraai.com.au/">
+  <img alt="Kora AI Company Logo" src="https://www.koraai.com.au/company-logos/KoraLogo03.svg">
+  <h1 align="center">Kora PTY LTD</h1>
+</a>
+<b>What we do:</b>
+<br/>
 We’re developing a smart assistant to help students succeed by offering:
 
 - 📚 Instant Question Answering 
