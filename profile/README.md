@@ -1,6 +1,9 @@
-<a href="https://app.koraai.com.au/">
-  <img alt="Kora AI Company Logo" src="https://www.koraai.com.au/company-logos/KoraLogo03.svg">
-</a>
+<p href="https://app.koraai.com.au/" align="center">
+  <img 
+  alt="Kora AI Company Logo" 
+  src="https://www.koraai.com.au/company-logos/KoraLogo03.svg" 
+  style="display: block; margin: auto; width: 200px; height: auto;">
+</p>
 
 ## What we do
 We’re developing a smart assistant to help students succeed by offering:
