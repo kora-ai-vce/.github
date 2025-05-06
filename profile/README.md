@@ -1,9 +1,8 @@
 <a href="https://app.koraai.com.au/">
   <img alt="Kora AI Company Logo" src="https://www.koraai.com.au/company-logos/KoraLogo03.svg">
-  <h1 align="center">Kora PTY LTD</h1>
 </a>
-<b>What we do:</b>
-<br/>
+
+## What we do
 We’re developing a smart assistant to help students succeed by offering:
 
 - 📚 Instant Question Answering 
@@ -12,6 +11,6 @@ We’re developing a smart assistant to help students succeed by offering:
 - 🎯 Personalized Learning Recommendations 
 - 📈 AI-Driven Progress Tracking
 
-# Our Vision
+## Our Vision
 We aim to empower VCE students with the tools they need to learn smarter, not harder.
 Starting with individual students, we plan to scale our platform through B2B partnerships with tutoring centers and schools.
